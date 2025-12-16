@@ -1,0 +1,16 @@
+D:\FCIS\Compiler Theory\TinyCompiler\TinyCompiler\bin\Debug\net8.0-windows\TinyCompiler.exe
+D:\FCIS\Compiler Theory\TinyCompiler\TinyCompiler\bin\Debug\net8.0-windows\TinyCompiler.deps.json
+D:\FCIS\Compiler Theory\TinyCompiler\TinyCompiler\bin\Debug\net8.0-windows\TinyCompiler.runtimeconfig.json
+D:\FCIS\Compiler Theory\TinyCompiler\TinyCompiler\bin\Debug\net8.0-windows\TinyCompiler.dll
+D:\FCIS\Compiler Theory\TinyCompiler\TinyCompiler\bin\Debug\net8.0-windows\TinyCompiler.pdb
+D:\FCIS\Compiler Theory\TinyCompiler\TinyCompiler\obj\Debug\net8.0-windows\Tiny_Compiler.Form1.resources
+D:\FCIS\Compiler Theory\TinyCompiler\TinyCompiler\obj\Debug\net8.0-windows\TinyCompiler.csproj.GenerateResource.cache
+D:\FCIS\Compiler Theory\TinyCompiler\TinyCompiler\obj\Debug\net8.0-windows\TinyCompiler.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCIS\Compiler Theory\TinyCompiler\TinyCompiler\obj\Debug\net8.0-windows\TinyCompiler.AssemblyInfoInputs.cache
+D:\FCIS\Compiler Theory\TinyCompiler\TinyCompiler\obj\Debug\net8.0-windows\TinyCompiler.AssemblyInfo.cs
+D:\FCIS\Compiler Theory\TinyCompiler\TinyCompiler\obj\Debug\net8.0-windows\TinyCompiler.csproj.CoreCompileInputs.cache
+D:\FCIS\Compiler Theory\TinyCompiler\TinyCompiler\obj\Debug\net8.0-windows\TinyCompiler.dll
+D:\FCIS\Compiler Theory\TinyCompiler\TinyCompiler\obj\Debug\net8.0-windows\refint\TinyCompiler.dll
+D:\FCIS\Compiler Theory\TinyCompiler\TinyCompiler\obj\Debug\net8.0-windows\TinyCompiler.pdb
+D:\FCIS\Compiler Theory\TinyCompiler\TinyCompiler\obj\Debug\net8.0-windows\TinyCompiler.genruntimeconfig.cache
+D:\FCIS\Compiler Theory\TinyCompiler\TinyCompiler\obj\Debug\net8.0-windows\ref\TinyCompiler.dll

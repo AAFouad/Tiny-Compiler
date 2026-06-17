@@ -1,10 +1,10 @@
 # Tiny Compiler
 
-A data-driven compiler implementation leveraging rigorous parsing techniques and formal language theory to transform source code into structured abstract syntax trees. This project applies advanced compiler construction principles—from lexical analysis to syntax parsing—to extract actionable program semantics from complex code structures.
+A complete compiler frontend implementation written in C# that processes source code through lexical analysis and syntax parsing to generate abstract syntax trees.
 
 ## Overview
 
-**Tiny Compiler** is a complete compiler frontend written in C# that processes source code through a traditional two-stage pipeline:
+**Tiny Compiler** is a full-featured compiler frontend that transforms source code through a traditional two-stage pipeline:
 1. **Lexical Analysis (Scanner)** - Tokenization of input source code
 2. **Syntax Analysis (Parser)** - Derivation of parse trees from token streams
 
@@ -135,15 +135,10 @@ List<string> errors = Errors.Error_List;
 
 ## Technical Highlights
 
-### Advanced Parsing Techniques
+### Parsing Techniques
 - **LL(1) Predictive Parsing** - Single token lookahead for decision-making
 - **Left-Recursive Elimination** - Grammar transformed to right-recursive form
 - **Error Recovery** - Graceful handling of syntax errors with context preservation
-
-### Data Structure Optimization
-- Token caching for efficient stream processing
-- Tree node hierarchies for semantic representation
-- Error list aggregation for batch reporting
 
 ### Software Engineering Patterns
 - **Pipeline Architecture** - Modular, composable compilation stages

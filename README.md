@@ -1,5 +1,7 @@
 # Tiny Compiler
 
+![Screenshot](./Screenshot%202026-06-18%20215141.png)
+
 A complete compiler frontend implementation written in C# that processes source code through lexical analysis and syntax parsing to generate abstract syntax trees.
 
 ## Overview
@@ -8,7 +10,7 @@ A complete compiler frontend implementation written in C# that processes source 
 1. **Lexical Analysis (Scanner)** - Tokenization of input source code
 2. **Syntax Analysis (Parser)** - Derivation of parse trees from token streams
 
-The compiler transforms textual programs into hierarchical parse trees that represent the complete syntactic structure of the input, enabling subsequent semantic analysis and code generation phases.
+The compiler transforms textual programs into hierarchical parse trees that represent the complete syntactic structure of the input, enabling subsequent semantic analysis and code generation phase[...]
 
 ## Key Features
 
@@ -38,7 +40,7 @@ TinyCompiler/
 The compiler implements a formal context-free grammar with the following structure:
 
 **Non-Terminals (40):**
-Program, Function_Statement_List, Main_Function, Function_Statement, Function_Declaration, Function_Body, Data_Type, Parameter_List, Statement_List, Statement, Expression, Term, Equation, Condition_Statement, If_Statement, Repeat_Statement, Assignment_Statement, Declaration_Statement, Write_Statement, Read_Statement, Function_Call, and more...
+Program, Function_Statement_List, Main_Function, Function_Statement, Function_Declaration, Function_Body, Data_Type, Parameter_List, Statement_List, Statement, Expression, Term, Equation, Conditio[...]
 
 **Terminals (37):**
 - Reserved Words: `main`, `int`, `float`, `string`, `return`, `write`, `read`, `endl`, `if`, `then`, `elseif`, `else`, `end`, `repeat`, `until`
